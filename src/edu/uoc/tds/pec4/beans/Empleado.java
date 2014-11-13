@@ -10,5 +10,5 @@ package edu.uoc.tds.pec4.beans;
  * @author hysmael20xx
  */
 public class Empleado {
-    
+    String nombre;
 }
