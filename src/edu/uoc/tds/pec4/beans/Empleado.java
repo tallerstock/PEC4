@@ -11,4 +11,5 @@ package edu.uoc.tds.pec4.beans;
  */
 public class Empleado {
     String nombre;
+    int idEmpleado;
 }
